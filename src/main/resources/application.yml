@@ -1,0 +1,18 @@
+    
+server:
+  port: 4444
+my:
+  app:
+    pid: 10
+    pcode: ABC
+    pcost: 500
+  models:
+      -m1
+      -m2
+      -m3
+  info:
+      Client:Nit
+      Version:3.3
+  vob:
+    vid:1010
+    vcode:Nit
